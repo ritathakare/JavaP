@@ -1,5 +1,5 @@
 package A1;
-// GIt learning
+// GIt bash learning
 public class Factorial {
 	public static void main(String[] args)
 	{
